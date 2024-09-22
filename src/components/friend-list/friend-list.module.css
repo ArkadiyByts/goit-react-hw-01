@@ -26,11 +26,7 @@
     transform: scale(1.05);
   }
   
-  .avatar {
-    /* display: block;
-    margin: 0 auto 10px; */
-    /* border-radius: 50%; */
-  }
+  
   
   .name {
     font-size: 18px;
